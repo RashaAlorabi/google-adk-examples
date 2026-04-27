@@ -99,5 +99,8 @@ Observability & logging for agents
 
 This repository is for learning and experimentation purposes in AI Agents using Google ADK.
 
-👤 Author
-Rasha — Senior Software Engineer → AI & Agentic Systems Explorer
+---
+
+## 👤 Author
+
+**Rasha** — Senior Software Engineer → AI Solutions Engineer
