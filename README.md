@@ -65,15 +65,16 @@ Final Response
 📁 Project Structure
 google-adk-examples/
 │
-├── basic-agent/
-├── tool-using-agent/
-├── multi-step-agent/
-├── context-memory-agent/
-├── experiments/
+├── lab1a/
+├── lab1b/
+├── lab2a/
+├── lab2b/
+├── lab3a/
+├── lab3b/
 │
 └── README.md
 🚀 How to Run
-git clone https://github.com/your-username/google-adk-examples.git
+git clone https://github.com/RashaAlorabi/google-adk-examples.git
 cd google-adk-examples
 
 python3 -m venv venv
@@ -99,4 +100,4 @@ Observability & logging for agents
 This repository is for learning and experimentation purposes in AI Agents using Google ADK.
 
 👤 Author
-Rasha — Senior Software Engineer → AI Solutions Engineer
+Rasha — Senior Software Engineer → AI & Agentic Systems Explorer
