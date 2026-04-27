@@ -95,7 +95,11 @@ Multi-agent collaboration systems
 Production-ready agent architecture
 API + FastAPI deployment examples
 Observability & logging for agents
-⚠️ Note
+
+---
+
+## ⚠️ Note
+
 
 This repository is for learning and experimentation purposes in AI Agents using Google ADK.
 
@@ -103,4 +107,4 @@ This repository is for learning and experimentation purposes in AI Agents using 
 
 ## 👤 Author
 
-**Rasha** — Senior Software Engineer → AI Solutions Engineer
+Rasha — Senior Software Engineer → AI & Agentic Systems Explorer
