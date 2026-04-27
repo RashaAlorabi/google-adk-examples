@@ -73,7 +73,10 @@ google-adk-examples/
 ├── lab3b/
 │
 └── README.md
-🚀 How to Run
+
+```
+---
+## 🚀 How to Run
 git clone https://github.com/RashaAlorabi/google-adk-examples.git
 cd google-adk-examples
 
@@ -83,13 +86,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 jupyter notebook
-🧠 Key Learnings
+
+---
+## 🧠 Key Learnings
 How AI agents are built using Google ADK
 How tools extend LLM capabilities
 How context improves agent intelligence
 How orchestration controls decision flow
 How to move from simple agent → advanced system
-🚧 Future Improvements
+
+---
+## 🚧 Future Improvements
 MCP (Model Context Protocol) integration
 Multi-agent collaboration systems
 Production-ready agent architecture
